@@ -8,6 +8,8 @@
     width: 60%;
     height: 50%;
     margin-inline: auto;
+    padding: 2rem 0;
+    
 }
 .promote > h1{
     color: aliceblue;

@@ -2,6 +2,8 @@ import First from "./components/First";
 import Second from "./components/Second";
 import Fouth from "./components/fouth";
 import Third from "./components/third";
+import Five from "./components/five";
+import Six from "./components/six";
 
 
 const App = () => {
@@ -11,6 +13,8 @@ const App = () => {
       <Second/>
       <Third/>
       <Fouth/>
+      <Five/>
+      <Six/>
     </>
    );
 }
