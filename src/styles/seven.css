@@ -1,0 +1,59 @@
+.frame{
+    width: 90%;
+    height: 600px;
+    background-color:white;
+    margin-inline: auto;
+    /* display: flex; */
+  
+
+
+}
+.ladies{
+    width: 700px;
+    height: 500px;
+    background-image: url("../assets/images/Beautiful 020.jpg");
+    background-color: blue;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1rem solid green;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 10%;
+    margin:auto;
+}
+.last{
+    max-width: 100%;
+    height: 500px;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    position: relative;
+    /* bottom: 20%; */
+
+}
+.right{
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    border-radius: 5%;
+    padding: 1rem;
+}
+.right > .text{
+    border-bottom: 1px solid black;
+    line-height: 0.1cm;
+}
+ .right > .buttom{
+    width: 350px;
+    height: 30px;
+    background-color: green;
+    margin-top: 2rem;
+    border-radius: 2%;
+    
+}
+.left{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 100%;
+}

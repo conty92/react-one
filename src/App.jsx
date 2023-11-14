@@ -4,6 +4,8 @@ import Fouth from "./components/fouth";
 import Third from "./components/third";
 import Five from "./components/five";
 import Six from "./components/six";
+import Seven from "./components/seven";
+import Eight from "./components/eight";
 
 
 const App = () => {
@@ -15,6 +17,8 @@ const App = () => {
       <Fouth/>
       <Five/>
       <Six/>
+      <Seven/>
+      {/* <Eight/> */}
     </>
    );
 }
