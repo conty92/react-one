@@ -5,7 +5,6 @@ import Third from "./components/third";
 import Five from "./components/five";
 import Six from "./components/six";
 import Seven from "./components/seven";
-import Eight from "./components/eight";
 
 
 const App = () => {
@@ -18,7 +17,6 @@ const App = () => {
       <Five/>
       <Six/>
       <Seven/>
-      {/* <Eight/> */}
     </>
    );
 }
