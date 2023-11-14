@@ -3,7 +3,7 @@
     height: 600px;
     background-color:white;
     margin-inline: auto;
-
+    margin-top: 3rem;
   
 
 
@@ -17,19 +17,19 @@
     background-size: cover;
     background-repeat: no-repeat;
     border: 1rem solid green;
-    border-top-right-radius: 50%;
-    border-bottom-left-radius: 10%;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 40%;
     margin:auto;
+    
 }
 .last{
     max-width: 100%;
     height: 500px;
-    background-color: aliceblue;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     display: flex;
     position: relative;
-    /* bottom: 20%; */
+    margin-top: -13rem;
 
 }
 .right{
